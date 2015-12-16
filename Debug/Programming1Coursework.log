@@ -1,0 +1,75 @@
+﻿Build started 16/12/2015 13:06:41.
+     1>Project "C:\Users\Any Authorised User\Desktop\Second Year\Programming\Submission\Programming1Coursework\Programming1Coursework\Programming1Coursework.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project.vcxproj, Project1.1.vcxproj, Project1.2.vcxproj, Project1.3.vcxproj, Project1.4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         F:\Visual Basic\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt cBackground.cpp cButtons.cpp cFileHandler.cpp cFontMgr.cpp cFonts.cpp cInputMgr.cpp cJigsaw.cpp cPiecePicker.cpp cPieces.cpp cSprites.cpp cTextures.cpp cWNDManager.cpp jigsawMaker.cpp main.cpp windowOGL.cpp
+         windowOGL.cpp
+         main.cpp
+         jigsawMaker.cpp
+         cWNDManager.cpp
+         cTextures.cpp
+         cSprites.cpp
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\csprites.cpp(105): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\csprites.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\csprites.cpp(139): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\csprites.cpp(141): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\csprites.cpp(143): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         cPieces.cpp
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpieces.cpp(45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpieces.cpp(47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpieces.cpp(49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpieces.cpp(75): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpieces.cpp(77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpieces.cpp(79): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         cPiecePicker.cpp
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpiecepicker.cpp(197): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpiecepicker.cpp(199): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cpiecepicker.cpp(201): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         cJigsaw.cpp
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cjigsaw.cpp(196): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cjigsaw.cpp(198): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cjigsaw.cpp(200): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cjigsaw.cpp(231): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cjigsaw.cpp(232): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cjigsaw.cpp(233): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         cInputMgr.cpp
+         cFonts.cpp
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cfonts.cpp(69): warning C4244: 'argument': conversion from 'FTGL_DOUBLE' to 'GLfloat', possible loss of data
+         cFontMgr.cpp
+         cFileHandler.cpp
+         cButtons.cpp
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cbuttons.cpp(41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cbuttons.cpp(43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cbuttons.cpp(45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cbuttons.cpp(71): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cbuttons.cpp(73): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\any authorised user\desktop\second year\programming\submission\programming1coursework\programming1coursework\cbuttons.cpp(75): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         cBackground.cpp
+         Generating Code...
+       Link:
+         F:\Visual Basic\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Any Authorised User\Desktop\Second Year\Programming\Submission\Programming1Coursework\Debug\Programming1Coursework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Any Authorised User\Desktop\Second Year\Programming\Submission\Programming1Coursework\Debug\Programming1Coursework.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Any Authorised User\Desktop\Second Year\Programming\Submission\Programming1Coursework\Debug\Programming1Coursework.lib" /MACHINE:X86 Debug\cBackground.obj
+         Debug\cButtons.obj
+         Debug\cFileHandler.obj
+         Debug\cFontMgr.obj
+         Debug\cFonts.obj
+         Debug\cInputMgr.obj
+         Debug\cJigsaw.obj
+         Debug\cPiecePicker.obj
+         Debug\cPieces.obj
+         Debug\cSprites.obj
+         Debug\cTextures.obj
+         Debug\cWNDManager.obj
+         Debug\jigsawMaker.obj
+         Debug\main.obj
+         Debug\windowOGL.obj
+         Libraries\DevIL.lib
+         Libraries\freeglut.lib
+         Libraries\ftgl.lib
+         Libraries\ILU.lib
+         Libraries\ILUT.lib
+         Programming1Coursework.vcxproj -> C:\Users\Any Authorised User\Desktop\Second Year\Programming\Submission\Programming1Coursework\Debug\Programming1Coursework.exe
+     1>Done Building Project "C:\Users\Any Authorised User\Desktop\Second Year\Programming\Submission\Programming1Coursework\Programming1Coursework\Programming1Coursework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:25.68
